@@ -3,11 +3,13 @@ About r-ideafilter-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ideafilter-feedstock/blob/main/LICENSE.txt)
 
-Home: https://biogen-inc.github.io/IDEAFilter/, https://github.com/Biogen-Inc/IDEAFilter
+Home: https://biogen-inc.github.io/IDEAFilter/
 
 Package license: MIT
 
 Summary: When added to an existing shiny app, users may subset any developer-chosen R data.frame on the fly. That is, users are empowered to slice & dice data by applying multiple (order specific) filters using the AND (&) operator between each, and getting real-time updates on the number of rows effected/available along the way. Thus, any downstream processes that leverage this data source (like tables, plots, or statistical procedures) will re-render after new filters are applied. The shiny module’s user interface has a 'minimalist' aesthetic so that the focus can be on the data & other visuals. In addition to returning a reactive (filtered) data.frame, 'IDEAFilter' as also returns 'dplyr' filter statements used to actually slice the data.
+
+Development: https://github.com/Biogen-Inc/IDEAFilter
 
 Current build status
 ====================
